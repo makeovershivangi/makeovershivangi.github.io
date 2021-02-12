@@ -1980,3 +1980,12 @@ body.mobile-nav-active #mobile-nav-toggle {
         margin: -20px 0 30px 0;
     }
 } */
+
+.footer-section {
+    background: #040919;
+    padding: 60px 0 30px 0;
+}
+
+.copyright-foot {
+    color: white;
+}
